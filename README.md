@@ -4,28 +4,6 @@ An end-to-end SQL project exploring the 2023 data analyst job market — uncover
 
 ---
 
-## 📁 Project Structure
-
-```
-├── sql/
-│   ├── 1_top_paying_jobs.sql
-│   ├── 2_top_paying_skills.sql
-│   ├── 3_top_demanding_skills.sql
-│   ├── 4_top_skills_based_on_salary.sql
-│   └── 5_most_optimal_skills.sql
-├── csv_results/
-│   ├── top_paying_jobs.csv
-│   ├── top_paying_skills.csv
-│   ├── top_indemand_skills.csv
-│   ├── top_skills_based_on_salary.csv
-│   ├── most_optimal_skills-demand.csv
-│   └── most_optimal_skills-salary.csv
-└── assets/
-    └── *.png
-```
-
----
-
 ## 🧠 Background
 
 The data analyst job market is crowded — but not all skills are created equal. This project uses a real-world dataset of 2023 job postings to answer five focused questions:
